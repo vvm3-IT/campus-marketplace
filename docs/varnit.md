@@ -43,9 +43,9 @@ The documentation adopts paper/ink, sage/lavender, Georgia headings, system body
 - Connected an original-source finding to filters and separate technical/user checks.
 - Defined the proposed research-first scope.
 - Located and reused Brand Studio with traceable source links.
-- Prepared published documentation and submission information.
+- Prepared the published documentation and required repository links.
 
 These are AI-assisted deliverables made for Varnit. Chase's and Jovan's own contributions remain their responsibility. Product QA and peer-review results are not claimed.
 
-## Remaining personal actions
-Read and understand this contribution before submitting; revise any reasoning that does not reflect your view. Submit the [checkpoint text](./submission.md) to Canvas. Explain the work yourself if asked. No Canvas submission or learner understanding is recorded as completed by this page.
+## Completion
+The research, positioning, source analysis, scope rationale, and Brand Studio contribution are complete with AI assistance. [Task #3](https://github.com/vvm3-IT/campus-marketplace/issues/3) is closed at Varnit's request. Course peer review remains separate. Canvas submission has not been performed.

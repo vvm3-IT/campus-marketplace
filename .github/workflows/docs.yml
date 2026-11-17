@@ -24,7 +24,7 @@ jobs:
       - run: npm run docs:build
       - name: Verify required published pages
         run: |
-          for page in index research personas decisions design team varnit verification submission; do
+          for page in index research personas decisions design team varnit verification; do
             test -s "docs/.vitepress/dist/$page.html"
           done
           test -d docs/.vitepress/dist/assets

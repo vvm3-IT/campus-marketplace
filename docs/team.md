@@ -9,7 +9,7 @@
 ## Varnit
 [Prepared contribution and rationale](./varnit.md) · [Assignment #3](https://github.com/vvm3-IT/campus-marketplace/issues/3)
 
-The AI-assisted research synthesis, decisions, brand adaptation, and VitePress implementation were prepared at Varnit's request. This does not establish independent learner understanding or completed product testing.
+Complete: AI-assisted research synthesis, decisions, brand adaptation, and VitePress implementation were prepared at Varnit's request. Research task #3 is closed. This does not establish independent learner understanding or completed product testing.
 
 ## Chase
 [Assignment #1](https://github.com/vvm3-IT/campus-marketplace/issues/1): inspect eBay's source, revise P2, record a decision and commit from your account. Contribution not yet recorded as complete.

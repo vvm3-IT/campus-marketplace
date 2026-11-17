@@ -32,6 +32,6 @@ features:
 **Research milestone · November 17, 2026**  
 Varnit Monga · Chase Carty · Jovan Fernandez
 
-This is the project documentation, not a live marketplace. [View the repository](https://github.com/vvm3-IT/campus-marketplace) or [open the submission record](./submission.md).
+This is the project documentation, not a live marketplace. [View the repository](https://github.com/vvm3-IT/campus-marketplace).
 
 </div>

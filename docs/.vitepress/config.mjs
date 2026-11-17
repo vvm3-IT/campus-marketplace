@@ -16,7 +16,7 @@ export default defineConfig({
     sidebar: [
       { text: 'Start here', items: [{ text: 'Project overview', link: '/' }, { text: 'Research & sources', link: '/research' }] },
       { text: 'Shape the idea', items: [{ text: 'Persona hypotheses', link: '/personas' }, { text: 'Positioning & features', link: '/decisions' }, { text: 'Brand & design', link: '/design' }] },
-      { text: 'Shared record', items: [{ text: 'Team contributions', link: '/team' }, { text: "Varnit's contribution", link: '/varnit' }, { text: 'Verification & AI', link: '/verification' }, { text: 'Submission', link: '/submission' }] }
+      { text: 'Shared record', items: [{ text: 'Team contributions', link: '/team' }, { text: "Varnit's contribution", link: '/varnit' }, { text: 'Verification & AI', link: '/verification' }] }
     ],
     search: { provider: 'local' },
     outline: { level: [2, 3] },

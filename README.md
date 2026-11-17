@@ -1,22 +1,24 @@
 # Campus Marketplace
 
-IS117 Group Business research and decision record for a proposed NJIT student marketplace.
+IS117 Group Business research for a proposed NJIT student marketplace.
 
-- [Published research documentation](https://vvm3-it.github.io/campus-marketplace/)
-- [Research source](docs/research.md)
-- [Team assignments](TEAM_TASKS.md)
-- [Canvas submission text](SUBMISSION.md)
+**Published documentation:** https://vvm3-it.github.io/campus-marketplace/  
+**Shared repository:** https://github.com/vvm3-IT/campus-marketplace
 
-Team: Varnit Monga (@vvm3-IT), Chase Carty (@chaseac-cpu), Jovan Fernandez (@Jovandon9).
+**Team:** Varnit Monga (@vvm3-IT), Chase Carty (@chaseac-cpu), Jovan Fernandez (@Jovandon9).
 
-Research includes three original-source comparisons, two positioning alternatives, two labeled persona hypotheses, evidence/assumption boundaries, proposed features and checks, design/brand considerations, and honest persuasion.
+## Assignment record
+- [Research and original sources](docs/research.md)
+- [Two persona hypotheses](docs/personas.md)
+- [Positioning, feature decisions, and planned checks](docs/decisions.md)
+- [Brand Studio reuse and honest persuasion](docs/design.md)
+- [Member contributions](docs/team.md)
+- [Varnit's completed AI-assisted research contribution](docs/varnit.md)
+- [Verification and AI assistance](docs/verification.md)
 
-This repository currently contains research documentation, not a functioning marketplace. Persona hypotheses are not interviews. Product checks are planned, not observed. Peer review was excluded from this preparation and remains a separate course requirement.
+Change note: researched three marketplace precedents, compared two positions, drafted two labeled persona hypotheses, documented design decisions and checks, reused Brand Studio, and published the shared VitePress record.
 
-Collaborator invitations were sent to @chaseac-cpu and @Jovandon9 on November 17, 2026; acceptance is pending. Individual contributions must be made and recorded by each member.
+Open work: Chase and Jovan's identifiable contributions and course-required peer review remain outstanding. [Chase #1](https://github.com/vvm3-IT/campus-marketplace/issues/1) · [Jovan #2](https://github.com/vvm3-IT/campus-marketplace/issues/2). [Varnit's research task #3](https://github.com/vvm3-IT/campus-marketplace/issues/3) is complete. Task issues are not peer-review evidence. No interviews or product usability results are claimed. Canvas submission has not been performed.
 
-## VitePress documentation
-
-Pages are organized into research, personas, decisions, brand, team, Varnit's contribution, verification, and submission. Run `npm install` then `npm run docs:dev` locally. `npm run docs:build` checks links and generates docs/.vitepress/dist. GitHub Actions builds and deploys that output.
-
-Varnit's AI-assisted research and positioning contribution is prepared in [docs/varnit.md](docs/varnit.md); Brand Studio reuse is documented in [docs/design.md](docs/design.md).
+## Site files
+The remaining configuration, theme, assets, and GitHub Actions workflow publish this research record with VitePress. Run `npm install` and `npm run docs:dev` locally; `npm run docs:build` generates the published site.
