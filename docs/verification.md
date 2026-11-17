@@ -19,3 +19,7 @@ The production build and live-site inspection must succeed before this migration
 
 ## Limits
 Documentation checks do not establish product usability, student demand, safety, savings, completed interviews, peer review, or teammate contribution. No audio is included.
+
+## Production build evidence
+
+[The VitePress build](https://github.com/vvm3-IT/campus-marketplace/actions/runs/44178765315) passed dependency installation, production generation, required-page checks, artifact upload, and deployment. GitHub Pages source is now GitHub Actions. An older branch-based build raced with the first migration deployment; this follow-up publishes only through the configured VitePress workflow. Final live inspection is required before reporting the migration finished.
