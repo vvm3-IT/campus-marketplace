@@ -12,12 +12,12 @@
 Complete: AI-assisted research synthesis, decisions, brand adaptation, and VitePress implementation were prepared at Varnit's request. Research task #3 is closed. This does not establish independent learner understanding or completed product testing.
 
 ## Chase
-[Assignment #1](https://github.com/vvm3-IT/campus-marketplace/issues/1): inspect eBay's source, revise P2, record a decision and commit from your account. Contribution not yet recorded as complete.
+[Assignment #1](https://github.com/vvm3-IT/campus-marketplace/issues/1): inspect eBay's source, revise P2, record a decision and commit from your account. AI-assisted draft prepared; Chase's confirmation remains outstanding.
+
+Prepared November 18, 2026: added an eBay source summary, a revised seller-persona hypothesis, and a reasoned D4 recommendation in [research](./research.md), [personas](./personas.md), and [decisions](./decisions.md). AI assisted with the draft; Chase must review, confirm or revise the recommendation, and be able to explain it before this is counted as independently understood work.
 
 ## Jovan
-[Jovan Fernandez's AI-assisted research contribution](./jovan.md) · [Assignment #2](https://github.com/vvm3-IT/campus-marketplace/issues/2).
-
-November 18, 2026: inspected OfferUp's original source, documented a finding and D3 revision, refined hypothetical P1, and separated planned product/QA checks from source observations. Full name and account confirmed: Jovan Fernandez / Jovandon9. Research edits are recorded; pickup/status implementation, QA of Chase's listing validation and teammate review remain future work.
+[Assignment #2](https://github.com/vvm3-IT/campus-marketplace/issues/2): inspect OfferUp's source, revise P1, record a pickup decision and commit from your account. Contribution not yet recorded as complete.
 
 ## How to contribute
 Accept the collaborator invitation if still pending. Edit the relevant page under `docs/`, commit using your account with the issue number, and link the change and your reasoning in your assignment issue. GitHub Actions builds the documentation on pushes to main.
