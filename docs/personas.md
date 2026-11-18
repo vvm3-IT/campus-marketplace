@@ -5,24 +5,25 @@ These two fictional personas guide investigation. No customer statements or obse
 :::
 
 ## Persona hypothesis P1 — commuter buyer
-Fictional example: Maya, a commuter student looking for a used calculator.
+Fictional example: Maya, a commuter student considering a used calculator.
 
-**Assumed goal:** compare price and condition and arrange pickup during an existing campus visit.
+**Assumed goal:** compare price and condition, check that the item is still available, and assess whether a proposed pickup could fit an existing campus visit.
 
-**Assumed difficulty:** uncertain availability and pickup arrangements can require extra messages.
+**Assumed difficulty:** knowing an item is available does not establish an agreed pickup place or time; incomplete information may require follow-up.
 
-**Context assumptions:** uses a phone between classes; may not have time for a separate trip.
+**Context assumptions:** may browse on a phone; transport, mobility, access requirements and class schedules vary. Do not assume a car, residence, route, or universal preference for campus pickup.
 
-**Proposed needs:** search, category/price filtering, clear condition, availability, and pickup information.
+**Proposed needs:** search, category/price filtering, clear condition and availability, a seller-proposed general pickup area, and an optional indicative time window. Missing details should be explicit. “Available” concerns the item; “seller-proposed pickup” is not a confirmed appointment.
 
-**Evidence boundary:** none of these needs were reported by an actual participant.
+**Evidence boundary:** no participant reported these needs. OfferUp supplies a coordination precedent, not validation of this persona or approval of NJIT locations. [Jovan's source analysis and D3 rationale](./jovan.md).
 
-**What would disconfirm this hypothesis:** commuters prefer delivery or existing sellers regardless of location.
+**What would disconfirm this hypothesis:** buyers favor delivery, another marketplace's inventory or an off-campus arrangement; pickup details do not affect their choice; or the proposed pickup cannot fit their actual access or timing needs.
 
-**Investigation:** recruit a consenting commuter and ask about their most recent used-item purchase, alternatives considered, and how pickup worked. Do not suggest a preferred answer.
+**Investigation — planned:** with consent, ask about a recent used-item purchase, alternatives considered, information needed before committing, and how handoff was agreed. First establish whether the participant has relevant experience. Do not lead with a claim that campus pickup is better or collect unnecessary private addresses/schedules.
 
-**Planned task:** find an available calculator within a stated budget and explain its condition and pickup arrangement.
+**Planned task:** find an available sample calculator within a stated budget, explain its condition and proposed pickup, and identify what still needs agreement. Include a listing with no proposed time. Record understanding/confusion and the participant's actual response; neither a completed task nor an interview is claimed.
 
+**Revision:** November 18, 2026 — Jovan Fernandez / Jovandon9, with Codex assistance, for [task #2](https://github.com/vvm3-IT/campus-marketplace/issues/2). Persona remains hypothetical.
 
 ## Persona hypothesis P2 — student seller
 Fictional example: Alex, a student with a desk lamp and books they no longer use.

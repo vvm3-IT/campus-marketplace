@@ -13,3 +13,7 @@ All sources accessed November 17, 2026. Findings describe documented features; n
 
 
 Facebook's documented strength is discovery, OfferUp's is meetup coordination, and eBay's is transaction-based reputation. These are selected patterns, not comprehensive rankings of the services. Our proposed differentiation is campus organization, not a claim that these competitors cannot serve students.
+
+## OfferUp follow-up — Jovan, November 18, 2026
+
+The original article was reopened for [Jovan Fernandez's contribution](./jovan.md). D3 now distinguishes seller-proposed pickup details from an agreed handoff. No campus place was investigated, designated or approved by this research; P1 remains hypothetical. The initial comparison's November 17 date remains its historical check date.
