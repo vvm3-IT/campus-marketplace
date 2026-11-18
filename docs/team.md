@@ -17,7 +17,15 @@ Complete: AI-assisted research synthesis, decisions, brand adaptation, and ViteP
 Prepared November 18, 2026: added an eBay source summary, a revised seller-persona hypothesis, and a reasoned D4 recommendation in [research](./research.md), [personas](./personas.md), and [decisions](./decisions.md). AI assisted with the draft; Chase must review, confirm or revise the recommendation, and be able to explain it before this is counted as independently understood work.
 
 ## Jovan
-[Assignment #2](https://github.com/vvm3-IT/campus-marketplace/issues/2): inspect OfferUp's source, revise P1, record a pickup decision and commit from your account. Contribution not yet recorded as complete.
+[Jovan Fernandez's AI-assisted research contribution](./jovan.md) · [Assignment #2](https://github.com/vvm3-IT/campus-marketplace/issues/2).
+
+November 18, 2026: inspected OfferUp's original source, documented a finding and D3 revision, refined hypothetical P1, and separated planned product/QA checks from source observations. Full name and account confirmed: Jovan Fernandez / Jovandon9. Research edits are recorded; pickup/status implementation, QA of Chase's listing validation and teammate review remain future work.
+
+
+[Original contribution commit](https://github.com/vvm3-IT/campus-marketplace/commit/7c4d24ed60a38119360456564078a29a9b5ff6ce) · [Source/decision discussion](https://github.com/vvm3-IT/campus-marketplace/issues/2) · [Successful build and deployment](https://github.com/vvm3-IT/campus-marketplace/actions/runs/44244971334).
+
+
+Chase's contribution is linked through [merged PR #8](https://github.com/vvm3-IT/campus-marketplace/pull/8) and [his own commit](https://github.com/vvm3-IT/campus-marketplace/commit/a4da520cb76666b9d4ee85e7e378440040e0196a). His confirmation remains pending; no confirmation is supplied on his behalf.
 
 ## How to contribute
 Accept the collaborator invitation if still pending. Edit the relevant page under `docs/`, commit using your account with the issue number, and link the change and your reasoning in your assignment issue. GitHub Actions builds the documentation on pushes to main.

@@ -10,7 +10,7 @@ Reconsider if student research shows that delivery or inventory breadth outweigh
 
 
 ## Finding to decision to planned check
-<div style="overflow-x:auto"><table><thead><tr><th>ID and basis</th><th>Proposed decision</th><th>Planned observable check</th><th>Observed result</th></tr></thead><tbody><tr><td>D2: Facebook documentation describes filtering</td><td>Search plus category and maximum-price controls</td><td>Use a fixed fixture set; verify all results match the query, category, and price, including a no-results case</td><td>Not run; no product exists</td></tr><tr><td>D3: OfferUp documents meetup coordination</td><td>Pickup description and public-meetup guidance on item pages</td><td>Open a listing and identify pickup information; ensure a private home address is not required publicly</td><td>Not run</td></tr><tr><td>D4: eBay describes description-accuracy feedback</td><td>Require condition and descriptive item details; defer ratings</td><td>Submit without condition, check a clear error and retained values; complete form and compare detail-page values</td><td>Not run</td></tr><tr><td>D5: P2 assumes availability matters</td><td>Owner-controlled available/sold state</td><td>Mark an item sold; verify it is labeled sold and omitted from default available results</td><td>Not run</td></tr><tr><td>D6: P1 assumes campus focus helps</td><td>Campus-oriented categories and pickup context</td><td>Have a consenting student perform P1's task; record actual completion, confusion, and explanation</td><td>Not run</td></tr></tbody></table></div>
+<div style="overflow-x:auto"><table><thead><tr><th>ID and basis</th><th>Proposed decision</th><th>Planned observable check</th><th>Observed result</th></tr></thead><tbody><tr><td>D2: Facebook documentation describes filtering</td><td>Search plus category and maximum-price controls</td><td>Use a fixed fixture set; verify all results match the query, category, and price, including a no-results case</td><td>Not run; no product exists</td></tr><tr><td>D3: OfferUp documents meetup coordination</td><td>Seller-proposed general pickup area, optional unconfirmed time window, missing-detail labels and sourced general meetup guidance; no campus-approval claim</td><td>Identify proposed versus confirmed details, show 'Time to be agreed' when absent, and verify public required fields do not demand a private home address or exact schedule</td><td>Not run</td></tr><tr><td>D4: eBay describes description-accuracy feedback</td><td>Require condition and descriptive item details; defer ratings</td><td>Submit without condition, check a clear error and retained values; complete form and compare detail-page values</td><td>Not run</td></tr><tr><td>D5: P2 assumes availability matters</td><td>Owner-controlled available/sold state</td><td>Mark an item sold; verify it is labeled sold and omitted from default available results</td><td>Not run</td></tr><tr><td>D6: P1 assumes campus focus helps</td><td>Campus-oriented categories and pickup context</td><td>Have a consenting student perform P1's task; record actual completion, confusion, and explanation</td><td>Not run</td></tr></tbody></table></div>
 
 
 Evidence establishes precedents, not proven effectiveness for this audience. Feature proposals are not implementation claims.
@@ -27,14 +27,14 @@ Static previews must label sample listings and simulated account behavior; do no
 
 
 ## Decision log
-All decisions below are AI-assisted proposals awaiting identifiable team adoption or revision.
-- D1: campus-convenience positioning; rationale and alternative above.
+The log distinguishes prepared project directions from individual recommendations. It does not claim whole-team adoption or implemented features.
+- D1: campus-convenience positioning documented in Varnit's completed AI-assisted contribution; alternatives and rationale above.
 - D2: category/price search; source precedent plus untested audience fit.
-- D3: explicit pickup context; investigate locations before suggesting them.
-- D4: condition/details first, authentic ratings later.
+- D3: Jovan adopts explicit pickup context and revises it to distinguish seller proposals from agreements, with separate item status. [Decision and alternatives](./jovan.md). No campus approval is claimed.
+- D4: Chase's AI-assisted recommendation is condition/details first, authentic ratings later. Draft merged through [PR #8](https://github.com/vvm3-IT/campus-marketplace/pull/8); his personal confirmation or revision remains pending in [#1](https://github.com/vvm3-IT/campus-marketplace/issues/1).
 - D5: sold status; based on seller persona assumption.
 - D6: validate campus focus before expanding implementation.
-- D7: reuse Brand Studio once supplied; neutral documentation styling is temporary.
+- D7: Brand Studio reuse completed for documentation: paper/ink, sage/lavender and Georgia/system typography. [Source links and adaptation](./design.md).
 
 
 See [Varnit's contribution](./varnit.md) for the prepared audience, scope, and positioning rationale.
