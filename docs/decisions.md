@@ -15,6 +15,9 @@ Reconsider if student research shows that delivery or inventory breadth outweigh
 
 Evidence establishes precedents, not proven effectiveness for this audience. Feature proposals are not implementation claims.
 
+### Chase contribution: D4 recommendation
+**Recommendation:** adopt D4's condition/details-first direction and defer seller ratings. eBay documents description accuracy as a feedback dimension, so clear item condition and description are relevant listing information. However, eBay feedback is based on buyer experience with purchases, including a verified-purchase indicator; a new campus marketplace has no such transaction history to substantiate ratings. This avoids implying trust or reputation that has not been earned. The evidence supports the design rationale, not a claim that NJIT students prefer this approach. AI assisted drafting this recommendation; Chase should confirm or revise it before treating it as his own decision.
+
 
 ## Initial feature boundary and alternatives
 Proposed essentials: browse/search/filter; listing details; create/edit listing; available/sold status; pickup information.
@@ -24,14 +27,14 @@ Static previews must label sample listings and simulated account behavior; do no
 
 
 ## Decision log
-Decisions below remain proposals for the product. Jovan's documented AI-assisted revision of D3 is linked below; this does not imply whole-team adoption.
-- D1: campus-convenience positioning; rationale and alternative above.
+The log distinguishes prepared project directions from individual recommendations. It does not claim whole-team adoption or implemented features.
+- D1: campus-convenience positioning documented in Varnit's completed AI-assisted contribution; alternatives and rationale above.
 - D2: category/price search; source precedent plus untested audience fit.
-- D3: Jovan adopts explicit pickup context and revises it to distinguish proposals from agreements, with separate item status. No NJIT location is investigated or approved. [November 18 rationale and alternatives](./jovan.md).
-- D4: condition/details first, authentic ratings later.
+- D3: Jovan adopts explicit pickup context and revises it to distinguish seller proposals from agreements, with separate item status. [Decision and alternatives](./jovan.md). No campus approval is claimed.
+- D4: Chase's AI-assisted recommendation is condition/details first, authentic ratings later. Draft merged through [PR #8](https://github.com/vvm3-IT/campus-marketplace/pull/8); his personal confirmation or revision remains pending in [#1](https://github.com/vvm3-IT/campus-marketplace/issues/1).
 - D5: sold status; based on seller persona assumption.
 - D6: validate campus focus before expanding implementation.
-- D7: reuse Brand Studio once supplied; neutral documentation styling is temporary.
+- D7: Brand Studio reuse completed for documentation: paper/ink, sage/lavender and Georgia/system typography. [Source links and adaptation](./design.md).
 
 
 See [Varnit's contribution](./varnit.md) for the prepared audience, scope, and positioning rationale.
